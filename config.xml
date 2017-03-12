@@ -4,10 +4,10 @@
 		id          = "Business card"
         version     = "1.0.0" >
 
-    <name>GUI</name>
+    <name>Business card</name>
     <description>Business card.</description>
     <author href="" email="daniel.dawid1@gmail.com">
-		John Brown
+		Daniel Żurek
 	</author>
 	<platform name="android" />
 	
